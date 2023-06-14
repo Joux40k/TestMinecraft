@@ -1,0 +1,3 @@
+name: FirstPlugin1
+version: '1.0-SNAPSHOT'
+main: de.joux.firstplugin1.FirstPlugin1
